@@ -1,0 +1,9 @@
+# Archivo con contraseñas y datos privados 
+scripts/.env 
+ 
+# Copias de seguridad de WordPress 
+*.tar.gz 
+*.sql 
+ 
+# Archivos temporales 
+*.log 
